@@ -1,0 +1,7 @@
+$version: 1
+namespace: alicloud.EBS
+
+@test(true)
+array test2 {
+    item: string
+}
